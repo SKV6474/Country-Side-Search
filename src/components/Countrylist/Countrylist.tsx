@@ -1,10 +1,10 @@
-import React, { Component } from "react";
+// import React, { Component } from "react";
 import { inject, observer } from "mobx-react";
 // import {inject} from "mobx-react";
 import { Countries } from "../../StyledComponents/styledcomponent";
 import Card from "../Card/Card";
 import { CountryLists } from "../../Store/Store";
-import * as mobx from "mobx";
+// import * as mobx from "mobx";
 // import { listtype } from "../../interface/interface";
 
 // @observer

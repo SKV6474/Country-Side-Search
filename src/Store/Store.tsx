@@ -1,4 +1,4 @@
-import { action, autorun, computed, observable, reaction } from "mobx";
+import { action, autorun, computed, observable } from "mobx";
 import { listtype } from "../interface/interface";
 
 class Country {
